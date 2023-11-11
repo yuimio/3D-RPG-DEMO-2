@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class HealthBarUI : MonoBehaviour
 {
+   //diyici
     public GameObject HealthUIPrefab;
 
     public Transform barPoint;
